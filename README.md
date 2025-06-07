@@ -1,4 +1,4 @@
-<h1 align=center>Christeen Fabian <i>The Code Hashira</i></h1>
+<h1 align=center><i>The Code Hashira</i>, Christeen Fabian</h1>
 
 <p>Dear Upwork clients, my legal name is being updated to my preferred name as Christeen. Reasons are... I'm a transsexual woman.</p>
 
