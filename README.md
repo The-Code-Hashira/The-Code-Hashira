@@ -6,6 +6,6 @@
 
 <p>Creating enterprise-level web apps</p>
 
-<p>During off hours, I'm exploring the world of rising AI and Information Security-To protect famipy, friends and people against threat actors and their dark programs.</p>
+<p>During off hours, I'm exploring the world of rising AI and Information Security-To protect family, friends and people against threat actors and their dark programs.</p>
 
 <p>Contact me via LinkedIn to get in touch.</p>
