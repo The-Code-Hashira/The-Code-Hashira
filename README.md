@@ -8,4 +8,4 @@
 
 <p>During off hours, I'm exploring the world of rising AI and Information Security-To protect famipy, friends and people against threat actors and their dark programs.</p>
 
-<p>if you have any questions, please contact me via LinkedIn by my prefered name.</p>
+<p>Contact me via LinkedIn to get in touch.</p>
