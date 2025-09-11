@@ -8,6 +8,7 @@
 
 <h2>Status:</h2>
 <ul>
+<p>Proud to announce that I am setting up my web app so clients may see my freelance packages to solve real world challenges as well as my projects that show my Coding and Cybersecurity abilities.</p>
 <li>Currently studying cyber security across popular platforms to up my cyber security skills.</p>
 </ul>
 
@@ -15,9 +16,8 @@
 <p>Stating my identity this way even when it is risky, because this is about build a strong network with clients based on trust, integrity to maintaining their <b>web systems</b> against <i>cyber threats</i> and boosting their business growth. Cyber attacks take place everywhere-Be Safe.</p>
 
 <p>Creating enterprise-level web apps using Nextjs, Mern Stack while utilizing cybersecurity awareness</p>
-<p>Actively upgrading my web design and Front-End dev skills.</p>
 
 <p>Contact me via LinkedIn to reach out: https://www.linkedin.com/in/christeen-fabian-a09431202/</p>
-<p>Note that my region does not support LinkedIn ID verification so please use upwork to check my profile and hire me when need.</p>
+<p>Note that my region does not support LinkedIn ID verification so use upwork to check my profile and hire me there.</p>
 
 <p>Support me with a follow, I appreciate the effort :)</p>
