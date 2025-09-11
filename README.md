@@ -8,7 +8,7 @@
 
 <h2>Status:</h2>
 <ul>
-<p>Proud to announce that I am setting up my web app so clients may see my freelance packages to solve real world challenges as well as my projects that show my Coding and Cybersecurity abilities.</p>
+<p>Proud to announce that I am setting up my web app so clients may see my freelance packages that solve real world challenges as well as my projects that show my Coding and Cybersecurity abilities.</p>
 <li>Currently studying cyber security across popular platforms to up my cyber security skills.</p>
 </ul>
 
