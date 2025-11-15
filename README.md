@@ -21,10 +21,6 @@
 <p>☑️✨Testimonials from past clients✨</p>
 <p>To protect the identity of my clients and their feedback visit my linkedIn and Upwork.</p>
 <hr/>
-<ul>
-  <li>
-    <p>☑️✨Where to find me✨</p>
-    <li><a href="https://www.linkedin.com/in/christeen-fabian-a09431202/">LinkedIn</a></li>
-    <li><a href="https://www.upwork.com/freelancers/~01a61c6f94d4c754e1">Upwork</a></li>
-  </ul>
-</ul>
+<p>☑️✨Where to find me✨</p>
+<p><a href="https://www.linkedin.com/in/christeen-fabian-a09431202/">LinkedIn</a></p>
+<p><a href="https://www.upwork.com/freelancers/~01a61c6f94d4c754e1">Upwork</a></p>
