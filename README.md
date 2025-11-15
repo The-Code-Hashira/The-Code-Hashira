@@ -1,23 +1,24 @@
-<h1 align=center><i>The Code Hashira</i></h1>
-<p>Front-End Developer That Establishes And Revamps Web UI’s | Upwork Freelancer</p>
-<p>Need a pro Front-End dev? 
-<p>Available on upwork: https://www.upwork.com/</p>
-
-
-<p>Dear clients, kindly note: My legal name is being changed to Christeen. Current ID what I regally go by: Christopher Fabian.
-
-<h2>Status:</h2>
+<h1>Let's get acquainted:</h1>
+<h2>Full-Time Coder | Upwork Freelancer</h2>
 <ul>
-<p>Proud to announce that I am setting up my web app so clients may see my freelance packages that solve real world challenges as well as my projects that show my Coding and Cybersecurity abilities.</p>
-<li>Currently studying cyber security across popular platforms to up my cyber security skills.</p>
+  <li>
+    <p>I am <i>The Code Hashira</i></p>
+  </li>
+  <li>
+    <p>I love building websites that creates a world better, safer, world based on trust and privacy.</p>
+  </li>
+<li>My mission is to create a better world using my developed skill sets in collaboration with other dynamic individuals across the globe.</li>
 </ul>
 
-<p>My pronouns: ( She / Her) - Yes, I'm transgender. My ethics remain profesional: Making communication easier for my followers/clients. No BS</p>
-<p>Stating my identity this way even when it is risky, because this is about build a strong network with clients based on trust, integrity to maintaining their <b>web systems</b> against <i>cyber threats</i> and boosting their business growth. Cyber attacks take place everywhere-Be Safe.</p>
+<h2>Good to know:</h2>
+  <p>As a potential client, you may realize I have two names:</p>
+<ol>
+  <li>The full names on my upwork profile which reflects my legal identity.</li>
+  <li>The full names on my LinkedIn is my new and prefered identity which has not yet reflected as my legal identity.</li>
+</ol>
 
-<p>Creating enterprise-level web apps using Nextjs, Mern Stack while utilizing cybersecurity awareness</p>
-
-<p>Contact me via LinkedIn to reach out: https://www.linkedin.com/in/christeen-fabian-a09431202/</p>
-<p>Note that my region does not support LinkedIn ID verification so use upwork to check my profile and hire me there.</p>
-
-<p>Support me with a follow, I appreciate the effort :)</p>
+<p>You can find me via:</p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/christeen-fabian-a09431202/">LinkedIn</a></li>
+<li><a href="https://www.upwork.com/freelancers/~01a61c6f94d4c754e1">Upwork</a></li>
+</ul>
