@@ -1,7 +1,7 @@
 <h1>Let's get acquainted:</h1>
 <h2>Full-Time Coder | Upwork Freelancer</h2>
 
-<p>I go by <i>The Code Hashira</i>, because it fits my personality and expertise in coding and cybersecurity</p>
+<p>I go by <i>The Code Hashira</i>, because the name fits my personality and expertise in coding and cybersecurity</p>
 <hr/>
 <p>☑️✨Mission</p>
 <p>Create a better, safer world using my refined skill sets in collaboration with other dynamic individuals across the globe.✨</p>
