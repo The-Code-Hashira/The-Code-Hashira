@@ -7,7 +7,7 @@
 <hr/>
 
 <p>☑️✨Audience curiosity✨</p>
-<p>Peek at my coding arts on <a href="https://www.upwork.com/freelancers/~01a61c6f94d4c754e1" target="_blank">Upwork</a> under "Other experiences"</li>
+<p>Peek at my developer arts on <a href="https://www.upwork.com/freelancers/~01a61c6f94d4c754e1" target="_blank">Upwork</a> under "Other experiences"</li>
 <hr/>
 
 <p>☑️✨Where to find me✨</p>
