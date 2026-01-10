@@ -1,5 +1,5 @@
-<p>☑️✨Mission</p>
-<p>Create a stronger, safer world using professional skill sets in collaboration with ambitious people to elevate founations across the globe.✨</p>
+<p>☑️✨Mission✨</p>
+<p>Create a stronger, safer world using professional skill sets in collaboration with ambitious people to elevate foundations across the globe.</p>
 <hr/>
 
 <p>☑️✨Burning Passion & Purpose ✨</p>
