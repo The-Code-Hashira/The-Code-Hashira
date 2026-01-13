@@ -6,7 +6,7 @@
 <p>I love to develop websites that:</p>
 <ul>
   <li>Build Trust, Credibility</li>
-  <li>Bring Leads, Leverage, Automation, Awareness, Education, Security</li>
+  <li>Bring Leads, Automation, Awareness, Education, Security</li>
   <li>Are UI and UX Smooth, Scalable and Fortified</li>
   <li>Exceed the Anime Realm's Threshold, Metaphoricly :)</li>
 </ul>
