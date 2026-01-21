@@ -14,7 +14,7 @@
 
 <ul>
   <li>Built MindCanvas- A multi-purpose content creation tool to visualize and organize information.</li>
-  <li><a href="https://github.com/XCrimsona/mindcanvas">view repository</a></li>
+  <!-- <li><a href="https://github.com/XCrimsona/mindcanvas">view repository</a></li> -->
 </ul>
 
 <p>☑️✨Where to find me✨</p>
