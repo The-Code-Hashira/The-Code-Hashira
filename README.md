@@ -9,4 +9,4 @@
 <p>Open to Opportunities that desire Lead Generation solution seekers. I'm not available 24/7. I dont build generic websites. You will find out when you're ready to take the leap to transform your compan(y/ies).</p>
 
 <p>Launching my website in a few months. Public repositories demonstate ability, capability.</p>
-<p>Working on outcome solutions which appear on my upwork profile. See my LinkedIn for more.</p>
+<p>Currently working on my outcome solutions which appear on my upwork profile-Stone Step is getting an update soon. See my LinkedIn for more.</p>
